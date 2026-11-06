@@ -1,0 +1,8 @@
+{
+  "name": "Remix SkillMate – Student Peer Learning \u0026 Skill Exchange",
+  "description": "Student-to-student skill exchange and peer learning platform with teaching video demonstrations, mentor booking, session scheduling, and reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
